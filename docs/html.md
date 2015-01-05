@@ -49,6 +49,8 @@ Example:
 <dl>
   <dt>Miami Dolphins</dt>
   <dd>An NFL team that never fails to disappoint their fans!</dd>
+  <dt>Miami Dolphins Fan</dt>
+  <dd>A very sad individual!</dd>
 </dl>
 
 6. `<>` -- 
