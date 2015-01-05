@@ -80,9 +80,15 @@ example:
   <li>three things yet again</li>
 </ol>
 
-9. `<>` -- 
+9. `<ul>` -- unordered list
 
-Example:
+example:
+
+<ul>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</ul>
 
 10. `<>` -- 
 
