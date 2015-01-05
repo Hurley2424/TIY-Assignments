@@ -19,9 +19,13 @@ example:
   <li>three things</li>
 </ul>
 
-3. `<>` -- 
+3. `<address>` -- contact information
 
 Example:
+
+<address>
+You can contact me at <a jeremy.bouchard@gmail.com <br>
+</address>
 
 4. `<>` -- 
 
