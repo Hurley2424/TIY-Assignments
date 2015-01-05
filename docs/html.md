@@ -71,9 +71,14 @@ Example:
 
 <p>This is second line of text.</p>
 
-8. `<>` -- 
+8. `<ol>` -- ordered list
 
-Example:
+example:
+<ol>
+  <li>one thing again</li>
+  <li>two things one more time</li>
+  <li>three things yet again</li>
+</ol>
 
 9. `<>` -- 
 
