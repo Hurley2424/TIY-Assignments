@@ -42,9 +42,14 @@ Example:
   </tr>
 </table>
 
-5. `<>` -- 
+5. `<dl>` -- definition list
 
 Example:
+
+<dl>
+  <dt>Miami Dolphins</dt>
+  <dd>An NFL team that never fails to disappoint their fans!</dd>
+</dl>
 
 6. `<>` -- 
 
