@@ -9,4 +9,12 @@ example:
   <li>three things</li>
 </ol>
 
-2. 
+2. `<ul>` -- unordered list
+
+example:
+
+<ul>
+  <li>one thing</li>
+  <li>two things</li>
+  <li>three things</li>
+</ul>
