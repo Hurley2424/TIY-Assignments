@@ -90,6 +90,17 @@ example:
   <li>three</li>
 </ul>
 
-10. `<>` -- 
+10. `<table>` -- Creates a table
 
 Example:
+
+<table>
+  <tr>
+    <td>Good Team 1</td>
+    <td>Dolphins</td>
+  </tr>
+  <tr>
+    <td>Bad Team</td>
+    <td>Jets</td>
+  </tr>
+</table>
