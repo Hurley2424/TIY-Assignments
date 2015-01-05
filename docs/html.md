@@ -53,9 +53,13 @@ Example:
   <dd>A very sad individual!</dd>
 </dl>
 
-6. `<>` -- 
+6. `<blockquote>` -- indicates an extended quotation
 
 Example:
+
+<blockquote>
+  <p>This is an extended quotation.</p>
+</blockquote>
 
 7. `<>` -- 
 
