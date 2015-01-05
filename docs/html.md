@@ -61,9 +61,15 @@ Example:
   <p>"This is an extended quotation."</p>
 </blockquote>
 
-7. `<>` -- 
+7. `<hr>` -- Horizontal rule (dividing line)
 
 Example:
+
+<p>This is the first line of text.</p>
+
+<hr>
+
+<p>This is second line of text.</p>
 
 8. `<>` -- 
 
