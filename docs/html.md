@@ -27,17 +27,17 @@ Example:
     You can contact me at at jeremy.bouchard@gmail.com <br>
 </address>
 
-4. `<table>` -- 
+4. `<table>` -- Creates a table
 
 Example:
 
 <table>
   <tr>
-    <td>Blue</td>
+    <td>Color 1</td>
     <td>Green</td>
   </tr>
   <tr>
-    <td>Red</td>
+    <td>Color 2</td>
     <td>Yellow</td>
   </tr>
 </table>
