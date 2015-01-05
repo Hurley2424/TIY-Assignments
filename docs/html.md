@@ -58,7 +58,7 @@ Example:
 Example:
 
 <blockquote>
-  <p>This is an extended quotation.</p>
+  <p>"This is an extended quotation."</p>
 </blockquote>
 
 7. `<>` -- 
