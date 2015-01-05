@@ -96,7 +96,7 @@ Example:
 
 <table>
   <tr>
-    <td>Good Team 1</td>
+    <td>Good Team</td>
     <td>Dolphins</td>
   </tr>
   <tr>
