@@ -1,9 +1,12 @@
 Block-level HTML tags, their attributes, and some example usage.
 
-1. <h1> -- Page Heading, Level 1
+1. <ol> -- ordered list
 
-type: block-level
-content: phrasing content[1]
-support: all browsers
 example:
-<h1>The Iron Yard | Orlando</h1>
+<ol>
+  <li>one thing</li>
+  <li>two things</li>
+  <li>three things</li>
+</ol>
+
+2. 
