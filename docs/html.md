@@ -24,8 +24,9 @@ example:
 Example:
 
 <address>
-You can contact me at <a jeremy.bouchard@gmail.com <br>
+    You can contact me at <a jeremy.bouchard@gmail.com </a>. <br>
 </address>
+
 
 4. `<>` -- 
 
