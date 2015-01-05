@@ -1,4 +1,4 @@
-Block-level HTML tags, their attributes, and some example usage.
+Block-level HTML tags, their attributes, and some example usage
 
 1. `<ol>` -- ordered list
 
